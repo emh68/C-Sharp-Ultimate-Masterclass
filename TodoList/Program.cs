@@ -28,8 +28,7 @@
 
 // Console.ReadKey();
 
-// void PrintSelectedOption(string selecteOption)
+// void PrintSelectedOption(string selectedOption)
 // {
-//     Console.WriteLine($"Selected option: {selecteOption}");
+//     Console.WriteLine($"Selected option: {selectedOption}");
 // }
-
